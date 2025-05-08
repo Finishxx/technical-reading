@@ -32,6 +32,8 @@ A list of useful books/articles I have stumbled upon. The aim is to nerd flex an
 
 ### Software Engineering
 
+[Agile Software Development, Principles, Patterns and Practices](https://www.amazon.com/Software-Development-Principles-Patterns-Practices/dp/0135974445] lays groundwork for modenr agile software development and has a very inspiring chapter on extreme programming.
+
 [Dive Into Design Patterns](https://refactoring.guru/design-patterns/book) is a great reference for the classical design patterns and principles.
 
 [Object-Oriented Thought Process](https://www.amazon.com/Object-Oriented-Thought-Process-Developers-Library/dp/0321861272) was a let-down - too long and uninteresting.
