@@ -1,6 +1,6 @@
 # Technical reading
 
-A list of useful books/articles I have stumbled upon. The aim is to nerd flex and to keep track of the good stuff. To get the books also please refer to annas archive.
+A list of useful books/articles I have stumbled upon. The aim is to nerd flex and to keep track of the good stuff. To get the books also please refer to annas archive ;)
 
 ## Currently reading
 
