@@ -22,7 +22,7 @@ A list of useful books/articles I have stumbled upon. The aim is to nerd flex an
 
 + some pixel art and game audio sources
 
-## My rrecommendations
+## Standouts
 
 [Fourth chapter of Psychology of programming](local/PsychologyOfProgramming.pdf.gz) the ego-less programming chapter rid me of many negative feelings surrounding the code I write.
 
@@ -47,4 +47,5 @@ A list of useful books/articles I have stumbled upon. The aim is to nerd flex an
 [Art of readable code](https://www.amazon.com/Art-Readable-Code-Practical-Techniques/dp/0596802293) has some nice tips & tricks, but nothing life changing.
 
 [Clean Architecture/Code](https://www.amazon.com/Clean-Architecture-Craftsmans-Software-Structure/dp/0134494164) I did not finish in favor of [Get Your Hands Dirty on Clean Architecture](https://reflectoring.io/book/) but might come back to later.
+
 
